@@ -60,8 +60,8 @@ Tutorial used to implement this configuration: [How to Create a Blog with Hexo O
 
 Other:
 
-	-	[How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
-	- 	[Deploy a live site with Git](https://www.gadgetdaily.xyz/create-a-background-changing-scroll-effect/)
+-	[How To Set Up Automatic Deployment with Git with a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
+- 	[Deploy a live site with Git](https://www.gadgetdaily.xyz/create-a-background-changing-scroll-effect/)
 
 
 
