@@ -35,7 +35,7 @@ Read the documentation to lern how to write a post or customize the site layout:
 Deploy
 ------
 
-The configuration file already have the repository defined. The section you need to check is in the __config.yml_  file:
+The configuration file already have the repository defined. The section you need to check is in the *_config.yml*  file:
 
 	# Deployment
 	## Docs: https://hexo.io/docs/deployment.html
