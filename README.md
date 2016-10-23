@@ -28,7 +28,7 @@ Install hexo dependencies
 Hexo usage
 ----------
 
-Read the documentation to lern how to write a post or customize the site layout: [Hexo.io docs](https://hexo.io/docs/index.html)
+Read the documentation to learn how to write a post or customize the site layout: [Hexo.io docs](https://hexo.io/docs/index.html)
 
 
 
