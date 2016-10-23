@@ -7,8 +7,10 @@ This is an [Hexo.io](https://hexo.io/) site repository so you need hexo to run t
 I assume you already have Node.js installed
 
 
-Installing Hexo
----------------
+Website Setup
+-------------
+
+## Install Hexo
 
 Let's install _hexo-cli_ and _hexo-server_
 
