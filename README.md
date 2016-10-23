@@ -52,6 +52,7 @@ To deploy with Hexo:
 	hexo generate
 	hexo deploy
 
+the _hexo deploy_ command automatically push our static html files to the github repository defined in the _repo_ section of *_config.yml* file.
 
 Usefull resources
 -----------------
