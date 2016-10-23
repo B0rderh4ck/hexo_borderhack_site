@@ -10,7 +10,7 @@ I assume you already have Node.js installed
 Website Setup
 -------------
 
-## Install Hexo
+# Install Hexo
 
 Let's install _hexo-cli_ and _hexo-server_
 
